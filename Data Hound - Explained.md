@@ -37,12 +37,12 @@ The results were... er... unexpected.
 
 None of the "gold standard" tools could identify steganography...
 <p align="center">
-<img align="middle" width="600" src="../../_resources/DataHound_RelatedTools.png"/>
+<img align="middle" width="600" src="https://github.com/R3D1AM/Blog/blob/main/_resources/DataHound_RelatedTools.png"/>
 </p>
 
 and testing FTK imager and Autopsy, they didn't identify the wav files had been tampered with either.
 <p align="center">
-<img align="middle" width="600" src="../../_resources/DataHound_FTKFileTampering.png"/>
+<img align="middle" width="600" src="https://github.com/R3D1AM/Blog/blob/main/_resources/DataHound_FTKFileTampering.png"/>
 </p>
 
 # **Found the hole, grab the polyfilla!**
@@ -58,7 +58,7 @@ The copied files will be hashed and run against the hash of the original files i
 The hidden file type will be identified and any hidden data will be extracted and placed in the **/extracted** folder. If an audio file has an encrypted file hidden within it, Data Hound will, if prompted complete a brute force attack on the password and then extract the decrypted file and place in the **/extracted** folder.
 
 <p align="center">
-<img align="middle" width="600" src="../../_resources/DataHound_Flow.png"/>
+<img align="middle" width="600" src="https://github.com/R3D1AM/Blog/blob/main/_resources/DataHound_Flow.png"/>
 </p>
 
 I've not had the time to work on it since graduating, but I'm still proud of the little guy - Alas, maybe in the future DataHound will get some more love. We'll see.
