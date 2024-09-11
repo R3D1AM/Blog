@@ -30,7 +30,7 @@
 - [Current Practicality](#Current-Practicality)
 - [Vulnerabities in classical Cryptography](#Vulnerabilities-in-classical-Cryptography)
 - [Grover's Algorithm](#Grovers)
-- [Breaking Asymmetric Cryptography](#asymmetric)
+- [Breaking Asymmetric Cryptography](#breaking-asymmetric-cryptography)
 - [Shor's algorithm](#Shors)
 - [Quantum Safe Cryptography](#Quantume-Safe-cryptography)
 - [Lattice based Cryptography](#Lattice-based-cryptography)
