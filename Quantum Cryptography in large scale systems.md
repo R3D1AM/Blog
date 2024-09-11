@@ -36,7 +36,7 @@
 - [Lattice based Cryptography](#Lattice-based-cryptography)
 - [Hash based Cryptography](#Hash-based-cryptography)   
 - [Implementing Quantum Cryptography in large scale organizations](#Implementing-Quantum-Cryptography-in-large-scale-organizations)
-- [Replacing internal certificates, consequences and impact of quantum cryptography](#Replacing-internal-certificates,-consequences-and-impact-of-quantum-cryptography)
+- [Replacing internal certificates consequences and impact of quantum cryptography](#Replacing-internal-certificates-consequences-and-impact-of-quantum-cryptography)
   
 
 # Introduction
