@@ -24,11 +24,11 @@
 # Contents
 - [Introduction](#introduction)
 - [Rising cyber security threats](#rising-cyber-security-threats)
-- [Basics of Quantum cryptography](#Basics-or-quantum-cryptography)
+- [Basics of Quantum cryptography](#Basics-of-quantum-cryptography)
 - [Key Concepts](#Key-concepts)
 - [QKD](#QKD)
 - [Current Practicality](#Current-Practicality)
-- [Vulnerabities in classical Cryptography](#Vulnerabiliteies-in-classical-Cryptography)
+- [Vulnerabities in classical Cryptography](#Vulnerabilities-in-classical-Cryptography)
 - [Grover's Algorithm](#Grovers)
 - [Breaking Asymmetric Cryptography](#asymmetric)
 - [Shor's algorithm](#Shors)
