@@ -35,7 +35,7 @@
 - [Quantum Safe Cryptography](#Quantume-Safe-cryptography)
 - [Lattice based Cryptography](#Lattice-based-cryptography)
 - [Hash based Cryptography](#Hash-based-cryptography)
--   
+- [Implementing Quantum Cryptography in a Large-Scale Organization](#implementing-quantum-cryptography-in-a-large-scale-organization)
 - [Replacing Internal Certificates in a Large-Scale Organisation Consequences and the Impact of Quantum Cryptography](#Replacing-Internal-Certificates-in-a-Large-Scale-Organisation-Consequences-and-the-Impact-of-Quantum-Cryptography)
   
 
