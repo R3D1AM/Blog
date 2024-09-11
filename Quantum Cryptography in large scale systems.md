@@ -23,13 +23,13 @@
 
 # Contents
 - [Introduction](introduction)
-- [Raising cyber security threats](#cyber_security_threats)
+- [Rising cyber security threats](#cyber_security_threats)
 - [Basics of Quantum cryptography](#Basics)
-- [Key Conceptys](#Key_concepts)
-- [QCD](#QKD)
+- [Key Concepts](#Key_concepts)
+- [QKD](#QKD)
 - [Current stability](#Stability)
 - [Vulnerabities in classical Cryptography](#classica_crypo_vulns)
-- [Gover's Algorithm](#Glovers)
+- [Grover's Algorithm](#Grovers)
 - [Breaking Asymmetric Cryptography](#asymmetric)
 - [Shor's algorithm](#Shors)
 - [Quantum Safe Cryptography](#Quantume_Safe)
