@@ -32,7 +32,7 @@
 - [Grover's Algorithm](#Grovers)
 - [Breaking Asymmetric Cryptography](#breaking-asymmetric-cryptography)
 - [Shor's algorithm](#Shors)
-- [Quantum Safe Cryptography](#Quantume-Safe-cryptography)
+- [Quantum Safe Cryptography](#Quantum-Safe-cryptography)
 - [Lattice based Cryptography](#Lattice-based-cryptography)
 - [Hash based Cryptography](#Hash-based-cryptography)
 - [Implementing Quantum Cryptography in a Large-Scale Organization](#implementing-quantum-cryptography-in-a-large-scale-organization)
