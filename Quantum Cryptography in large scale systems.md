@@ -17,12 +17,13 @@
 -----------------
 # Quantum Cryptography in large scale systems
 -----------------
-##A study on the scalablity of Qunaum Cryptography in large scale organisations.
+> A study on the scalablity of Qunaum Cryptography in large scale organisations.
 ----------------
 
+```
 # Contents
 - [Introduction](introduction))
-- [Raising cyber cyber security threats] (#cyber_security_threats)
+- [Raising cyber security threats] (#cyber_security_threats)
 - [Basics of Quantum cryptography](#Basics)
 - [Key Conceptys](#Key_concepts)
 - [QCD](#QKD)
@@ -36,6 +37,7 @@
 - [Hash based Cryptography](#Hash)   
 - [Implementing Quantum Cryptography in large scale organisaions](#Organisations)
 - [Replacing internal certificates, consequences and impact of quantum cryptography](#certificates)
+```
 
 # Introduction
 
