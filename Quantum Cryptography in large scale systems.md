@@ -1,4 +1,4 @@
-~~~
+```
  ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗   ██╗███╗   ███╗    
 ██╔═══██╗██║   ██║██╔══██╗████╗  ██║╚══██╔══╝██║   ██║████╗ ████║    
 ██║   ██║██║   ██║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║    
@@ -11,10 +11,9 @@
 ██║     ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║   ██║   ██║██║   ██║██╔══██╗██╔══██║██╔═══╝ ██╔══██║  ╚██╔╝  
 ╚██████╗██║  ██║   ██║   ██║        ██║   ╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║     ██║  ██║   ██║   
  ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝ 
-~~~
+```
 Maider | 8th Sptember 2024
-Quantum Cryptography in large scale systems
-
+### Quantum Cryptography in large scale systems
 
 [Introduction 1](#_Toc176614716)
 
@@ -39,7 +38,6 @@ Quantum Cryptography in large scale systems
 [Replacing Internal Certificates in a Large-Scale Organisation Consequences and the Impact of Quantum Cryptography 13](#_Toc176614726)
 
 [Impact of Quantum Cryptography on Certificate Replacement 13](#_Toc176614727)
-
 
 # Introduction
 
