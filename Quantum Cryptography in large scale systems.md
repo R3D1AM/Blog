@@ -22,21 +22,21 @@
 
 
 # Contents
-- [Introduction](introduction)
-- [Rising cyber security threats](#cyber_security_threats)
-- [Basics of Quantum cryptography](#Basics)
-- [Key Concepts](#Key_concepts)
+- [Introduction](#introduction)
+- [Rising cyber security threats](#rising-cyber-security-threats)
+- [Basics of Quantum cryptography](#Basics-or-quantum-cryptography)
+- [Key Concepts](#Key-concepts)
 - [QKD](#QKD)
-- [Current stability](#Stability)
-- [Vulnerabities in classical Cryptography](#classica_crypo_vulns)
+- [Current Practicality](#Current-Practicality)
+- [Vulnerabities in classical Cryptography](#Vulnerabiliteies-in-classical-Cryptography)
 - [Grover's Algorithm](#Grovers)
 - [Breaking Asymmetric Cryptography](#asymmetric)
 - [Shor's algorithm](#Shors)
-- [Quantum Safe Cryptography](#Quantume_Safe)
-- [Lattice based Cryptography](#Lattice)
-- [Hash based Cryptography](#Hash)   
-- [Implementing Quantum Cryptography in large scale organisaions](#Organisations)
-- [Replacing internal certificates, consequences and impact of quantum cryptography](#certificates)
+- [Quantum Safe Cryptography](#Quantume-Safe-cryptography)
+- [Lattice based Cryptography](#Lattice-based-cryptography)
+- [Hash based Cryptography](#Hash-based-cryptography)   
+- [Implementing Quantum Cryptography in large scale organisaions](#Implementing-Quantum-Cryptography-in-large-scale-organisaions)
+- [Replacing internal certificates, consequences and impact of quantum cryptography](#Replacing-internal-certificates,-consequences-and-impact-of-quantum-cryptography)
   
 
 # Introduction
