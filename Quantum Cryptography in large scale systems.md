@@ -15,33 +15,26 @@
 ``` 
 > Maider | 8th Sptember 2024
 -----------------
-Quantum Cryptography in large scale systems
-
+# Quantum Cryptography in large scale systems
 -----------------
+##A study on the scalablity of Qunaum Cryptography in large scale organisations.
+----------------
 
-[Introduction 1]((#_Toc176614716))
-
-[Rising Cyber Security threats 2](#_Toc176614717)
-
-[Basics of Quantum cryptography 2](#_Toc176614718)
-
-[Key concepts 2](#_Toc176614719)
-
-[QKD 2](#_Toc176614720)
-
-[Current Practicality 3](#_Toc176614721)
-
-[Vulnerabilities in classical Cryptography 3](#_Toc176614722)
-
-[Breaking Asymmetric Cryptography 5](#_Toc176614723)
-
-[Quantum safe cryptography 7](#_Toc176614724)
-
-[Implementing Quantum Cryptography in a Large-Scale Organization 10](#_Toc176614725)
-
-[Replacing Internal Certificates in a Large-Scale Organisation Consequences and the Impact of Quantum Cryptography 13](#_Toc176614726)
-
-[Impact of Quantum Cryptography on Certificate Replacement 13](#_Toc176614727)
+# Contents
+- [Introduction](introduction))
+- [Raising cyber cyber security threats (#cyber_security_threats)
+- Basics of Quantum cryptography(# Basics)
+- [Key Conceptys](#Key_concepts)
+- [QCD](#QKD)
+ [Current stability] (#Stability)
+- [Vulnerabities in classical Cryptography] (#classica_crypo_vulns)
+- [Gover's Algorithm](#Glovers) [Breaking Asymmetric Cryptography](#asymmetric)
+- [Shor's algorithm](#Shors)
+- [Quantum Safe Cryptography](#Quantume_Safe)
+- [Lattice based Cryptography] (#Lattice)
+- [Hash based Cryptography](#Hash)   
+- [Implementing Quantum Cryptography in large scale organisaions](#Organisations)
+- [Replacing internal certificates, consequences and impact of quantum cryptography](#certificates)
 
 # Introduction
 
