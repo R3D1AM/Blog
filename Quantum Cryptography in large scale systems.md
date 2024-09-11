@@ -15,9 +15,9 @@
 ``` 
 > Maider | 8th Sptember 2024
 -----------------
-# Quantum Cryptography in large scale systems
+# Quantum cryptography in large scale systems
 -----------------
-> A study on the scalablity of Qunaum Cryptography in large scale organisations.
+> A study on the scalablity of Quantum Cryptography Cryptography in large scale organisations.
 ----------------
 
 ```
