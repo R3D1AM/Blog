@@ -1,4 +1,4 @@
-``` 
+~~~
  ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗   ██╗███╗   ███╗    
 ██╔═══██╗██║   ██║██╔══██╗████╗  ██║╚══██╔══╝██║   ██║████╗ ████║    
 ██║   ██║██║   ██║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║    
@@ -11,15 +11,10 @@
 ██║     ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║   ██║   ██║██║   ██║██╔══██╗██╔══██║██╔═══╝ ██╔══██║  ╚██╔╝  
 ╚██████╗██║  ██║   ██║   ██║        ██║   ╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║     ██║  ██║   ██║   
  ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝ 
- ``` 
-
-> Maider | 8th Sptember 2024
------------------
+~~~
+Maider | 8th Sptember 2024
 Quantum Cryptography in large scale systems
 
------------------
-
-Contents
 
 [Introduction 1](#_Toc176614716)
 
@@ -50,9 +45,9 @@ Contents
 
 Quantum cryptography is a cutting-edge field of cryptography that harnesses the principles of quantum mechanics to achieve secure communication.
 
-Unlike classical cryptography, which relies on complex mathematical algorithms to encrypts data, quantum cryptography leverages the inherent properties of the quantum particles. Such as superstition and entanglement, to secure information.  <br/>At its core quantum cryptography uses quantum states of particles, often photons, to transmit encryption keys in a way that ensures any eavesdropping attempt will disturb the system and will be immediately detectable.  <br/>This concept is central to Quantum Key Distribution (QKD), the most well-known application of quantum cryptography. In QKD, two parties can exchange cryptographic keys with absolute security as any third-party interception alters the quantum states, revealing the presence of an intruder.  <br/>This provides a level of security based on the laws of physics rather than computational difficulty, which is the basis for most classical cryptography systems.
+Unlike classical cryptography, which relies on complex mathematical algorithms to encrypts data, quantum cryptography leverages the inherent properties of the quantum particles. Such as superstition and entanglement, to secure information.  <br/>At its core quantum cryptography uses quantum states of particles, often photons, to transmit encryption keys in a way that ensures any eavesdropping attempt will disturb the system and will be immediately detectable.  <br/>This concept is central to Quantum Key Distribution (QKD), the most well-known application of quantum cryptography. In QKD, two parties can exchange cryptographic keys with absolute security as any third-party interception alters the quantum states, revealing the presence of an intruder. This provides a level of security based on the laws of physics rather than computational difficulty, which is the basis for most classical cryptography systems.
 
-Rising Cyber Security threats
+### Rising Cyber Security threats
 
 In the recent years the landscape of cyber security threats has become increasingly complex and sophisticated. Cyber attacks suck as hacking, data breaches, ransomware and phishing have all grown in frequency and severity, targeting not only individuals but also critical infrastructures, governments and large corporations.
 
