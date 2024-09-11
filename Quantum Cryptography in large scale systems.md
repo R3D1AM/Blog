@@ -22,18 +22,18 @@
 
 
 # Contents
-- [Introduction](introduction))
-- [Raising cyber security threats] (#cyber_security_threats)
+- [Introduction](introduction)
+- [Raising cyber security threats](#cyber_security_threats)
 - [Basics of Quantum cryptography](#Basics)
 - [Key Conceptys](#Key_concepts)
 - [QCD](#QKD)
-- [Current stability] (#Stability)
-- [Vulnerabities in classical Cryptography] (#classica_crypo_vulns)
+- [Current stability](#Stability)
+- [Vulnerabities in classical Cryptography](#classica_crypo_vulns)
 - [Gover's Algorithm](#Glovers)
 - [Breaking Asymmetric Cryptography](#asymmetric)
 - [Shor's algorithm](#Shors)
 - [Quantum Safe Cryptography](#Quantume_Safe)
-- [Lattice based Cryptography] (#Lattice)
+- [Lattice based Cryptography](#Lattice)
 - [Hash based Cryptography](#Hash)   
 - [Implementing Quantum Cryptography in large scale organisaions](#Organisations)
 - [Replacing internal certificates, consequences and impact of quantum cryptography](#certificates)
