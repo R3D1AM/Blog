@@ -13,11 +13,11 @@
  ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝ 
   
 ``` 
-> Maider | 8th Sptember 2024
+> Maider | 8th September 2024
 -----------------
 # Quantum cryptography in large scale systems
 -----------------
-> A study on the scalablity of Quantum Cryptography Cryptography in large scale organisations.
+> A study on the scalablity of Quantum Cryptography in large scale organisations.
 ----------------
 
 
