@@ -1,5 +1,6 @@
 
 
+
 # Completed:
 
 > Data Hound https://github.com/R3D1AM/DataHound 
@@ -12,6 +13,8 @@
 > A shorter, condensed version  
 [Quantum Cryptography in large scalelable systems - a business use case.pdf](https://github.com/user-attachments/files/16942459/Quantum.Cryptography.in.large.scalelable.systems.-.a.business.use.case.pdf)
 >
-## Working on: 
+
+ ## Working on: 
 Brenda: 
 Uncensored Chat Gpt model
+
