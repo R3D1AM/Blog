@@ -3,18 +3,22 @@
 
 # Completed:
 
-> Data Hound https://github.com/R3D1AM/DataHound 
+## 01_Projects
+> Data Hound https://github.com/R3D1AM/DataHound
 
- > Quantum Cryptography in large scale systems (Full file)
- [Quantum Cryptography in large scale systems.pdf](https://github.com/user-attachments/files/16927625/Quantum.Cryptography.in.large.scale.systems.pdf)
+## 02_Research
+ > Quantum Cryptography in large scale systems 
+ [Quantum Cryptography in large scale systems.pdf](https://www.researchgate.net/publication/385892988_Quantum_Cryptography_in_Large-Scale_Systems_A_study_on_the_scalability_of_Quantum_Cryptography_in_large_scale_organisations)
 
-> PDF/and or Markdown: https://github.com/R3D1AM/Blog/blob/main/Quantum%20Cryptography%20in%20large%20scale%20systems.md
-
-> A shorter, condensed version  
-[Quantum Cryptography in large scalelable systems - a business use case.pdf](https://github.com/user-attachments/files/16942459/Quantum.Cryptography.in.large.scalelable.systems.-.a.business.use.case.pdf)
->
+## 03_Ramblings
+> WIP
 
  # Working on: 
-Brenda: 
-Uncensored Chat Gpt model
+> 01 Brenda: 
+Uncensored generative AI model
+> 
+> 03 - Privacy, Anonymity and Security
+> 
+> 03 - Why we need uncensored generative AI
+
 
